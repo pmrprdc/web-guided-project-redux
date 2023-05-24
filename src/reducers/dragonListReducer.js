@@ -1,4 +1,4 @@
-import { UPDATE_NEW_MEMBER, ADD_MEMBER} from './../actions/titleActions';
+import { UPDATE_NEW_MEMBER,  ADD_MEMBER} from './../actions/titleActions';
 
 export const initialState = {
     newMember: '',
